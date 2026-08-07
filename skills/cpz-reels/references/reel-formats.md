@@ -129,6 +129,10 @@ PHILIP: "[CTA — single action, delivered with conviction]"
 
 ---
 
+## Voice Calibration
+
+Before writing hooks, load `cpz-fitness/references/voice-calibration.md` — it has two devices worth reaching for in diagnosis beats specifically: **the Behavioral Autopsy** (narrate the specific sequence — sessions, weeks, meals — instead of naming the pattern abstractly) and **the Reframe Architecture** (surface complaint → reject it → name the real mechanism → structural fix, not a motivational one). Also carries the no-slogan-quoting rule and the CTA-by-intention framework referenced in the pacing notes below.
+
 ## Hook Patterns by Content Pillar
 
 ### Pillar 1: Data-Driven Insights
@@ -194,3 +198,5 @@ Reel captions are **shorter than carousel captions** because the video carries t
 | TikTok | 30–60 words | Punchy. Hook. One sentence. CTA. |
 
 **Rule:** The caption amplifies the video — it does not repeat it. Use the caption for the one thing the video didn't have room to say.
+
+**CTA:** no default to "link in bio." Match the ask to the post's job — comment-keyword for reach, DM-keyword for warm consideration, link only once the viewer's already most of the way to a yes. Full framework: `cpz-fitness/references/voice-calibration.md` § CTA by Intention.

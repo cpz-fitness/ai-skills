@@ -77,7 +77,7 @@ One next step. No hedging after the point is made.
 | Lean gain / Slow gain                         | Cookie-cutter / Generic                                           |
 | Comparison (as something to name and reject)  | Shredded / Ripped / Swole as the *goal framing* (fine as casual vocabulary, not as the pitch) |
 
-**Avoid these patterns:** "Genuinely" / "Honestly" as filler. Restarting after a point is made. Hedging after a direct claim. Trailing off instead of completing the thought.
+**Avoid these patterns:** "Genuinely" / "Honestly" as filler. Restarting after a point is made. Hedging after a direct claim. Trailing off instead of completing the thought. Quoting the tagline or core promise verbatim inside content — "lifting to be seen" and "confidence over compliance" are the internal compass, not lines to ship. Dramatize the idea through a scene or specific claim instead (see `references/voice-calibration.md`).
 
 ---
 
@@ -94,6 +94,8 @@ Before finalizing any content:
 8. Is emphasis (italics/bold) used structurally, not decoratively?
 9. Is the failure context as specific as the win?
 10. Does this pass the Content Safety Rules? (Worth-conditional framing, moralized food/exercise language, comparison material, peak-photo transformations — see Content Safety Rules below.)
+11. Is there at least one concrete, specific sequence or scene — not just a named pattern? (The Behavioral Autopsy device — see `references/voice-calibration.md`.)
+12. Does the CTA match what this post is actually asking for (comment/DM/link), rather than defaulting to "link in bio"? (See `references/voice-calibration.md`, CTA by Intention.)
 
 ---
 
@@ -179,6 +181,7 @@ Schibsted Grotesk replaces Barlow Condensed as of the July 2026 Brand Guide v1. 
 
 | File                                                          | Load When                                                                                 |
 |:---------------------------------------------------------------|:------------------------------------------------------------------------------------------|
+| `references/voice-calibration.md`                              | Any content-generation task — the specificity device, reframe architecture, no-slogan-quoting rule, and CTA-by-intention logic. All of `cpz-research`, `cpz-reels`, `cpz-carousels`, `cpz-longform` pull from this. |
 | `references/brand.md`                                          | Deeper voice work — authentic voice patterns, the inclusive "we" principle, tone quick-reference, content structure arc |
 | `references/ICA-Master-Psychographics-v3-Reclaim-Yourself.md`  | Audience-facing copy, marketing, community content — current ICA                          |
 | `references/client-profile-v2-engineer-ARCHIVED.md`            | Legacy reference only — engineer-era clients still in active coaching                     |

@@ -22,6 +22,7 @@ description: CPZ Fitness Reel and TikTok script writing. Use for short-form vide
 | File                         | Load When                                                                               |
 |:-----------------------------|:----------------------------------------------------------------------------------------|
 | `references/reel-formats.md` | Always — beat-by-beat script templates, hook patterns, pacing notes, B-roll suggestions |
+| `cpz-fitness/references/voice-calibration.md` | Always — the Behavioral Autopsy device for diagnosis beats, the reframe architecture, no-slogan-quoting rule, and CTA-by-intention (no default to "link in bio") |
 
 ---
 
@@ -90,3 +91,5 @@ Reel captions are shorter than carousel captions — the video carries the conte
 | TikTok          | 30–60 words  | Punchy. Hook. One sentence. CTA.               |
 
 **Rule:** Caption amplifies the video — it does not repeat it. Use the caption for the one thing the video didn't have room to say.
+
+**CTA:** no default. Comment-keyword for reach-intent posts, DM-keyword for posts where the viewer's already leaning in, link-in-bio only for warm/high-intent content. Full logic: `cpz-fitness/references/voice-calibration.md` § CTA by Intention.
