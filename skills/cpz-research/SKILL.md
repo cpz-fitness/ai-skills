@@ -19,6 +19,7 @@ description: CPZ Fitness content brainstorming and angle development. Use for ge
 | File                            | Load When                                                                               |
 |:--------------------------------|:----------------------------------------------------------------------------------------|
 | `references/content-pillars.md` | Always — for pillar definitions, hook formulas, example topics, and platform-fit matrix |
+| `cpz-fitness/references/voice-calibration.md` | Always — the Reframe Architecture (surface complaint → reject → real mechanism → structural fix), the Behavioral Autopsy specificity device, and CTA-by-intention. Apply the Reframe Architecture during angle development, before handing off to reels/carousels. |
 
 ---
 

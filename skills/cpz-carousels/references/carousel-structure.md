@@ -105,14 +105,28 @@ Use when: Addressing the psychological and mechanical reasons the ICA isn't show
 
 ## CTA Slide Options
 
-Choose one per carousel based on the content type and intended action:
+No default CTA — choose by what this specific carousel is asking the reader to do and how much friction that ask can bear. Full framework: `cpz-fitness/references/voice-calibration.md` § CTA by Intention.
+
+**Lowest friction (comment) — Reach-intent, top-of-funnel:**
 
 | CTA                                                  | Best for                                              |
 |:-----------------------------------------------------|:------------------------------------------------------|
 | "Drop your biggest gym obstacle in the comments."    | Consistency/habit carousels — drives engagement       |
+| "Comment [KEYWORD] and I'll break down exactly how." | Any pillar — the reader recognized the pattern, low-friction next step |
 | "Save this for your next training day."              | Workout carousels — drives saves (algorithmic signal) |
+
+**Mid friction (DM keyword) — the reader is already leaning in:**
+
+| CTA                                                  | Best for                                              |
+|:-----------------------------------------------------|:------------------------------------------------------|
+| "DM me [KEYWORD] and I'll show you what that actually looks like." | Diagnosis-heavy posts, Pillar 5 especially — starts a real conversation, not just a data point |
 | "Follow @philipz.fit for more straightforward fitness breakdowns." | Data/myth posts — drives follows                      |
-| "Book your free consultation → link in bio"          | Any carousel — drives conversions                     |
+
+**Highest friction (typed link) — reserve for warm, high-intent posts:**
+
+| CTA                                                  | Best for                                              |
+|:-----------------------------------------------------|:------------------------------------------------------|
+| "Book your free consultation → link in bio"          | Program-breakdown posts, post-DM-conversation content, repeat-engager audiences — not the fallback for everything |
 
 ---
 
