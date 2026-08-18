@@ -148,7 +148,7 @@ All CPZ Fitness social content maps to one of these five pillars. Every pillar h
 
 **What it does:** Addresses the reason this ICA follows Philip instead of a generic coach: body image pressure inside gay culture — comparison, apps, aging, shirtless dread, and the ambivalent relationship with a community that provides belonging *and* relentless appearance judgment. This pillar's job is **decoupling self-worth from the ideal body** — the goal is to stop the ideal from owning you, not to finally comply with it. Confidence is built alongside the physical work, not awarded at the end of it.
 
-**Lead with:** Philip's own avoidance or insecurity first — self-implication is non-negotiable in this pillar. The ICA needs to see someone who's been in the exact spot, not someone diagnosing him from across the room.
+**Lead with:** Philip's own avoidance or insecurity first whenever the post names a habit or pattern in the reader — which is most of this pillar. Not required for posts that don't call out a specific pattern (pure education, mechanics, or CTA-only posts). The ICA needs to see someone who's been in the exact spot, not someone diagnosing him from across the room.
 
 **The pillar's core stance (bake into every post):**
 1. The body you want is a *want*, not a worthiness threshold. You're allowed to pursue it without agreeing that you're less until you get it.
